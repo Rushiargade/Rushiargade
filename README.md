@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rushikesh Argade
 
-🚀 Cloud Engineer | AWS | VMware & Backup Specialist | VMware | Hypwer-v | Xen
+🚀 Cloud Engineer | DevOps | AWS | VMware & Backup Specialist | VMware | Hyper-v | Xen |
 
 📍 Nashik, Maharashtra, India  
 📧 rushikeshargade54@gmail.com  
